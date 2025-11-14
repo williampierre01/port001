@@ -1,6 +1,6 @@
-# Projeto001-chatboot
-#Título: Chat boot simples
+# Projeto001-chatbot
+#Título: Chatbot 
 
-#Objetivo: Implementaçãode um chatboot utilizando llm.
+#Objetivo: Implementação de um chatbot que utiliza llm.
 
 
